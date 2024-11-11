@@ -1,0 +1,7 @@
+C:\Users\gardn\Documents\addmultiplyfourints\bin\Debug\addmultiplyfourints.exe.config
+C:\Users\gardn\Documents\addmultiplyfourints\bin\Debug\addmultiplyfourints.exe
+C:\Users\gardn\Documents\addmultiplyfourints\bin\Debug\addmultiplyfourints.pdb
+C:\Users\gardn\Documents\addmultiplyfourints\obj\Debug\addmultiplyfourints.csproj.AssemblyReference.cache
+C:\Users\gardn\Documents\addmultiplyfourints\obj\Debug\addmultiplyfourints.csproj.CoreCompileInputs.cache
+C:\Users\gardn\Documents\addmultiplyfourints\obj\Debug\addmultiplyfourints.exe
+C:\Users\gardn\Documents\addmultiplyfourints\obj\Debug\addmultiplyfourints.pdb
